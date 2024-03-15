@@ -35,7 +35,10 @@
     "resolveJsonModule": true,
     // "allowUmdGlobalAccess": true,
     "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true
+    "forceConsistentCasingInFileNames": true,
+    "types": [
+      "chrome"
+    ]
   },
   "include": [
     "src"
